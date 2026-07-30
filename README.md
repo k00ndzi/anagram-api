@@ -1,1 +1,3 @@
-# anagram-api
+# Anagram REST API
+
+W budowie.
